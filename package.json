@@ -1,0 +1,17 @@
+{
+  "name": "node-standard-cli",
+  "version": "1.0.0",
+  "description": "Simple implementation of a Node.js CLI application using standard input and output.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fpaus/istea-practico-docker"
+  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Fabrizio Dante Pauselli <fabrizio.pauselli@istea.com.ar>",
+  "license": "ISC"
+}
